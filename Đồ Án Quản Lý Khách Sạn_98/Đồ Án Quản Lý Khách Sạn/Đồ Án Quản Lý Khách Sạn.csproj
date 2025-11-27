@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73AAFF24-BCE4-48F4-86ED-644F34ED17E1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Đồ_Án_Quản_Lý_Khách_Sạn</RootNamespace>
+    <AssemblyName>Đồ Án Quản Lý Khách Sạn</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dịch vụ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dịch vụ.Designer.cs">
+      <DependentUpon>Dịch vụ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cập nhật nhân sự.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cập nhật nhân sự.Designer.cs">
+      <DependentUpon>Cập nhật nhân sự.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chi tiết dịch vụ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chi tiết dịch vụ.Designer.cs">
+      <DependentUpon>Chi tiết dịch vụ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loại VIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loại VIP.Designer.cs">
+      <DependentUpon>Loại VIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loại Family room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loại Family room.Designer.cs">
+      <DependentUpon>Loại Family room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loại Luxury room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loại Luxury room.Designer.cs">
+      <DependentUpon>Loại Luxury room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loại Double_Twin room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loại Double_Twin room.Designer.cs">
+      <DependentUpon>Loại Double_Twin room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loại Single room.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loại Single room.Designer.cs">
+      <DependentUpon>Loại Single room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoá đơn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoá đơn.Designer.cs">
+      <DependentUpon>Hoá đơn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QR.Designer.cs">
+      <DependentUpon>QR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đặt dịch vụ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đặt dịch vụ.Designer.cs">
+      <DependentUpon>Đặt dịch vụ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trang chủ_ADMIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trang chủ_ADMIN.Designer.cs">
+      <DependentUpon>Trang chủ_ADMIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trả phòng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trả phòng.Designer.cs">
+      <DependentUpon>Trả phòng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đăng nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đăng nhập.Designer.cs">
+      <DependentUpon>Đăng nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Thanh toán.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thanh toán.Designer.cs">
+      <DependentUpon>Thanh toán.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trang chủ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trang chủ.Designer.cs">
+      <DependentUpon>Trang chủ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý phòng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý phòng.Designer.cs">
+      <DependentUpon>Quản lý phòng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý khách hàng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý khách hàng.Designer.cs">
+      <DependentUpon>Quản lý khách hàng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý nhân sự.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý nhân sự.Designer.cs">
+      <DependentUpon>Quản lý nhân sự.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đặt phòng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đặt phòng.Designer.cs">
+      <DependentUpon>Đặt phòng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Chi tiết dịch vụ.resx">
+      <DependentUpon>Chi tiết dịch vụ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dịch vụ.resx">
+      <DependentUpon>Dịch vụ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cập nhật nhân sự.resx">
+      <DependentUpon>Cập nhật nhân sự.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loại Double_Twin room.resx">
+      <DependentUpon>Loại Double_Twin room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoá đơn.resx">
+      <DependentUpon>Hoá đơn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loại Family room.resx">
+      <DependentUpon>Loại Family room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loại Luxury room.resx">
+      <DependentUpon>Loại Luxury room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loại Single room.resx">
+      <DependentUpon>Loại Single room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loại VIP.resx">
+      <DependentUpon>Loại VIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QR.resx">
+      <DependentUpon>QR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trang chủ_ADMIN.resx">
+      <DependentUpon>Trang chủ_ADMIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trả phòng.resx">
+      <DependentUpon>Trả phòng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thanh toán.resx">
+      <DependentUpon>Thanh toán.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trang chủ.resx">
+      <DependentUpon>Trang chủ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý phòng.resx">
+      <DependentUpon>Quản lý phòng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý khách hàng.resx">
+      <DependentUpon>Quản lý khách hàng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý nhân sự.resx">
+      <DependentUpon>Quản lý nhân sự.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đăng nhập.resx">
+      <DependentUpon>Đăng nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đặt dịch vụ.resx">
+      <DependentUpon>Đặt dịch vụ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đặt phòng.resx">
+      <DependentUpon>Đặt phòng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

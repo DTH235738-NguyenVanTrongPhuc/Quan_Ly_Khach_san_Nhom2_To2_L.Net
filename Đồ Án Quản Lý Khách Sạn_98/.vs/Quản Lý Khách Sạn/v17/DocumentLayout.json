@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n_98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73AAFF24-BCE4-48F4-86ED-644F34ED17E1}|\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|e:\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n_98\\\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\\u0111\u1EB7t d\u1ECBch v\u1EE5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73AAFF24-BCE4-48F4-86ED-644F34ED17E1}|\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n.csproj|solutionrelative:\u0111\u1ED3 \u00E1n qu\u1EA3n l\u00FD kh\u00E1ch s\u1EA1n\\\u0111\u1EB7t d\u1ECBch v\u1EE5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u0110\u1EB7t d\u1ECBch v\u1EE5.cs",
+              "DocumentMoniker": "E:\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n_98\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\\u0110\u1EB7t d\u1ECBch v\u1EE5.cs",
+              "RelativeDocumentMoniker": "\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\\u0110\u1EB7t d\u1ECBch v\u1EE5.cs",
+              "ToolTip": "E:\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n_98\\\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\\u0110\u1EB7t d\u1ECBch v\u1EE5.cs",
+              "RelativeToolTip": "\u0110\u1ED3 \u00C1n Qu\u1EA3n L\u00FD Kh\u00E1ch S\u1EA1n\\\u0110\u1EB7t d\u1ECBch v\u1EE5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:57:48.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
