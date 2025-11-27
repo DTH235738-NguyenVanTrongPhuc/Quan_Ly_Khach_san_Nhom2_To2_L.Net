@@ -1,0 +1,82 @@
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.exe.config
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.exe
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.pdb
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.Properties.Resources.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.GenerateResource.cache
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.exe
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.pdb
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.exe.config
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.formTrang_Chu.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDich_Vu.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmThanh_Toan.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmKhach_Hang.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmNhan_Su.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDang_Nhap.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDat_Phong.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmPhong.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmCap_Nhat_Nhan_Su.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmTrang_Chu_Admin.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmTra_Phong.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDat_Dich_Vu.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.exe.config
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.exe
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.pdb
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.exe.config
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDich_Vu.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmCap_Nhat_Nhan_Su.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmTrang_Chu_Admin.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmTra_Phong.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmThanh_Toan.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.formTrang_Chu.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmPhong.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmKhach_Hang.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmNhan_Su.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDang_Nhap.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDat_Dich_Vu.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDat_Phong.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.Properties.Resources.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.GenerateResource.cache
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.exe
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn (1)\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.pdb
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmQR.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmCTDV.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmHoa_Don.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDoubleroom.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmSingleroom.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmLuxury.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmVip.resources
+E:\Đồ án DotNet\Đồ Án Quản Lý Khách Sạn\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmFamilyroom.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.exe.config
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.exe
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\bin\Debug\Đồ Án Quản Lý Khách Sạn.pdb
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.AssemblyReference.cache
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.exe.config
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmCTDV.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDich_Vu.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmCap_Nhat_Nhan_Su.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDoubleroom.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmHoa_Don.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmFamilyroom.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmLuxury.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmSingleroom.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmVip.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmQR.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmTrang_Chu_Admin.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmTra_Phong.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmThanh_Toan.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.formTrang_Chu.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmPhong.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmKhach_Hang.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmNhan_Su.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDang_Nhap.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDat_Dich_Vu.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.frmDat_Phong.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ_Án_Quản_Lý_Khách_Sạn.Properties.Resources.resources
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.GenerateResource.cache
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.csproj.CoreCompileInputs.cache
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.exe
+E:\Đồ Án Quản Lý Khách Sạn_98\Đồ Án Quản Lý Khách Sạn\obj\Debug\Đồ Án Quản Lý Khách Sạn.pdb
